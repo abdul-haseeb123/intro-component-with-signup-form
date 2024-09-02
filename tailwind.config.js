@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "desktop-pattern": "url('images/bg-intro-desktop.png')",
-        "mobile-pattern": "url('images/bg-intro-mobile.png')",
+        "desktop-pattern": "url('/images/bg-intro-desktop.png')",
+        "mobile-pattern": "url('/images/bg-intro-mobile.png')",
       },
       colors: {
         "primary-red": "hsl(var(--primary-red))",
