@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Intro Component Sign up form Github](https://github.com/abdul-haseeb123/intro-component-with-signup-form)
+- Live Site URL: [Intro Component Sign up form vercel](https://intro-component-with-signup-form-taupe-mu.vercel.app/)
 
 ### Built with
 
